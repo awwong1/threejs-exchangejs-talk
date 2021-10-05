@@ -271,3 +271,5 @@ Slightly more advanced demo
 - [https://app.udia.ca/threejs/15](https://app.udia.ca/threejs/15)
 - [https://git.sr.ht/~udia/app.udia.ca/tree/main/item/assets/src/threejs/threejs_15.ts](https://git.sr.ht/~udia/app.udia.ca/tree/main/item/assets/src/threejs/threejs_15.ts)
 
+**Much thanks to this awesome course:**
+[three.js journey](https://threejs-journey.xyz/)
