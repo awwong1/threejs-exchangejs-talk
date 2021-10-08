@@ -24,7 +24,7 @@
     1. New Scene
     2. Adding Geometries
     3. Adding Lighting
-    4. Adding Debug GUI
+    4. Adding Shadows
 
 
 All project setup is already done!
