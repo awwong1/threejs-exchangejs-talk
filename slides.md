@@ -38,7 +38,7 @@ Source code: https://github.com/awwong1/threejs-exchangejs-code
 ```bash
 # git clone https://github.com/awwong1/threejs-exchangejs-code
 git clone git@github.com:awwong1/threejs-exchangejs-code.git
-cd threejs-exchangejs-codeta
+cd threejs-exchangejs-code
 git fetch --all --tags
 git checkout tags/v0.1.3 -b v0.1.3-branch
 
